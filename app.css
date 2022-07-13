@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(20,20,54);
+}
+
+h1 {
+    color: rgb(76, 182, 136);
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+p {
+    font-size: 2rem;
+    color: rgb(223, 43, 226);
+}
+
+.par {
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    /* border: width 100px; */
+    /* height: fit-content; */
+    background-color: rgb(61, 139, 66);
+}
+
+.word {
+    transition: color 1000ms;
+}
